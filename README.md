@@ -1,0 +1,1 @@
+A fork of spin.js to use the CSS color of the element rather than coloring from the JS.
